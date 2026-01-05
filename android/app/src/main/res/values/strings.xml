@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Velox</string>
+    <string name="ongoing_notification_title">Velox</string>
+    <string name="ongoing_notification_text">Download in progress</string>
+</resources>
